@@ -1,0 +1,6 @@
+export CC=clang
+export CXX=clang++
+mkdir build
+cd build
+cmake .. -GNinja -DFETCHCONTENT_QUIET=OFF
+ninja llvm-toolchain
