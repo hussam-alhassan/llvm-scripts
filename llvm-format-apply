@@ -1,0 +1,1 @@
+~/repos/llvm-project/clang/tools/clang-format/git-clang-format --binary ~/repos/llvm-project/build/bin/clang-format --force HEAD
